@@ -1,0 +1,27 @@
+.header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+#about {
+    border: 1px solid rgb(212, 200, 200);
+}
+#image {
+    margin-top: 20px;
+}
+img {
+    box-shadow: 5px 5px 20px 3px grey;
+    border-radius: 100%;
+}
+#glimpse {
+    margin-top: 20px;
+    border: 1px solid rgb(212, 200, 200);
+    background-color: rgb(199, 196, 196);
+    margin: auto;
+}
+.life-years {
+    font-family: 'Raleway', sans-serif;
+    margin: auto;
+}
